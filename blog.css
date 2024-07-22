@@ -1,0 +1,45 @@
+body{
+    overflow-x: hidden;
+}
+.logo{
+    border-radius: 50% 50%;
+    width: 55px;
+    margin: 0 15px;
+}
+.nav-item{
+    margin: 0 25px;
+}
+.blog{
+    margin-top: 30px;
+}
+.content{
+    margin: 50px 5%;
+}
+.first{
+    padding-top: 40px;
+}
+.first_img{
+    border-radius: 20px;
+    width: 95%;
+    margin-top: 30px;
+}
+.first_img1{
+    border-radius: 20px;
+    width: 95%;
+    margin-top: 50px;
+}
+.second{
+    padding-top: 70px;
+}
+.first1{
+    padding-top: 15px;
+}
+.contact{
+    background-color: #C9BBCF;
+    padding: 5%;
+}
+
+.contact_row{
+    font-weight: 300;
+    font-size: smaller;
+}
